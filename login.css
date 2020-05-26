@@ -1,0 +1,108 @@
+.Head {
+   overflow:hidden;
+  background-color:#fcfcfc;
+  box-shadow: 1px 1px 2px 2px black;
+  padding-left:none;
+  width:auto;
+}
+
+.Head a {
+  color:#949292;
+  text-decoration: none;
+  text-align: center;
+  padding: 12px 15px;
+  font-size: 17px;
+
+}
+
+.Head a:hover {
+  background-color:#dbdb14;
+  color:white;
+}
+
+.Head a.active {
+  background-color:black;
+  color: white;
+}
+
+
+.body
+{
+  background-color:#dcdee0;
+}
+
+.form
+{
+  border:1px solid #f1f1f1;
+  height: 370px;
+  width: 280px;
+  background-color:white;
+  box-shadow: 0px 4px 4px 4px #a7a7a8;
+padding-top:10px;
+margin-top:85px;
+}
+#h4
+{
+font-size:22px;
+font-weight: bold;
+line-height: 50px;
+}
+
+#a{
+color:black;
+font-weight: bold;
+text-decoration:none;
+}
+
+.h6
+{
+  font-size:9px;
+  color:gray;
+}
+#but
+{
+  background-color:#51b04f;
+  height:30px;
+  width:250px;
+  cursor:pointer;
+  color: white;
+  border: none;
+  font-size:12px;
+  font-weight: bold;
+  font-family: serif;
+}
+#but1{
+background-color: #102191;
+color:white;
+height:30px;
+width:250px;
+cursor:pointer;
+color: white;
+border: none;
+font-size:12px;
+font-weight: bold;
+font-family: serif;
+margin-top: 5px;
+}
+#but2{
+  background-color:#b82727;
+  color:white;
+  height:30px;
+  width:250px;
+  cursor:pointer;
+  color: white;
+  border: none;
+  font-size:12px;
+  font-weight: bold;
+  font-family: serif;
+  margin-top: 5px;
+}
+
+#but:hover{
+background-color:#3909e6
+}
+
+
+.icon i{
+    position: absolute;
+  }
